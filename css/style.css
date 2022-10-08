@@ -1,8 +1,13 @@
 p {
-  text-indent: 40px;
+  text-indent: 30px;
+  margin-bottom: 0;
 }
 
 img {
   width: 50%;
   
+}
+
+ul {
+  margin-left: 20px;
 }
