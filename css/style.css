@@ -11,3 +11,10 @@ img {
 ul {
   margin-left: 20px;
 }
+
+@media (max-width: 576px) {
+  /* body {background-color: red;}     */
+  p{
+    font-size: 25px;
+  }
+}
